@@ -1,0 +1,46 @@
+[
+{
+  "id" : 0,
+  "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/393b6d17ae0543b8bd274ca769b46c31_138x138.jpeg",
+  "name" : "Пицца из половинок",
+  "types" : [0, 1],
+  "sizes" : [26,30,40],
+  "price" : 2000,
+  "widht" : ["тонкое", "традиционное"],
+  "category" : 0,
+  "rating" : 4
+},
+{
+  "id" : 0,
+  "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/4c4ef8b5e1704713826bbd6e38c971e3_138x138.jpeg",
+  "name" : "Гавайская с альфредо",
+  "types" : [0, 1],
+  "sizes" : [26,40],
+  "price" : 3000,
+  "widht" : ["тонкое", "традиционное"],
+  "category" : 0,
+  "rating" : 4
+},
+{
+  "id" : 0,
+  "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Products/b9e9517672f94fd98640017e61d35205_138x138.jpeg",
+  "name" : "Пеперони Фреш",
+  "types" : [0, 1],
+  "sizes" : [26,30,40],
+  "price" : 2300,
+  "widht" : ["традиционное"],
+  "category" : 0,
+  "rating" : 4
+},
+{
+  "id" : 0,
+  "imageUrl" : "https://media.dodostatic.net/image/r:292x292/01995c42f704740cae3253e3af6994dc.jpg",
+  "name" : "Чоризо Фреш",
+  "types" : [0, 1],
+  "sizes" : [40],
+  "price" : 2600,
+  "widht" : ["тонкое", "традиционное"],
+  "category" : 0,
+  "rating" : 4
+}
+]

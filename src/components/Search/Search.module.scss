@@ -1,0 +1,67 @@
+.root {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100%;
+  max-width: 20rem;
+  display: flex;
+  padding: 5px 26px;
+
+  font-size: 14px;
+  font-weight: 300;
+
+  align-items: center;
+
+  border: 1px solid #2d2d2d;
+  border-radius: 10px;
+
+  background-color: none;
+  background: none;
+
+  position: relative;
+
+  &:focus {
+    border: 1px solid #fe5f1e;
+  }
+      @media (max-width: 690px) {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+}
+
+.search {
+  max-width: 20rem;
+  border: none;
+
+
+  font-size: 14px;
+  font-family: "Nunito", Roboto, system-ui, Tahoma, sans-serif;
+  font-weight: 300;
+
+  &::placeholder {
+    font-size: 14px;
+  }
+
+}
+
+.icon {
+  cursor: pointer;
+  position: absolute;
+  left: 5px;
+
+}
+
+.cross {
+  cursor: pointer;
+
+  width: 21px;
+  height: 21px;
+  opacity: 0.5;
+  position: absolute;
+  right: 5px;
+}
+
+.delete {
+  display: none;
+
+}
